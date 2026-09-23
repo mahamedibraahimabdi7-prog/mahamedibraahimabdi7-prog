@@ -26,7 +26,7 @@ I build AI-powered software systems, business automation platforms, and full-sta
 
 ### 🏢 Featured Work
 
-Building the **BODHARI** product suite — AI-driven business automation and platform software, including customer engagement automation, business finance tooling, and research/monitoring systems.
+**[BODHARI](https://bodhari.com)** — Retail brand platform (optics, bags, watches, jewelry) with a live public site, WhatsApp-driven sales automation (BAS), business finance tooling (Bodhari Money), and AI-backed operations infrastructure (BMAI).
 
 *Product demos, technical documentation, and inquiries available on request.*
 
@@ -36,5 +36,5 @@ Building the **BODHARI** product suite — AI-driven business automation and pla
 
 ### 📍 Connect
 
-📍 Hargeisa, Somaliland &nbsp;|&nbsp; 🏢 BODHARI
+📍 Hargeisa, Somaliland &nbsp;|&nbsp; 🏢 [BODHARI](https://bodhari.com)
 
